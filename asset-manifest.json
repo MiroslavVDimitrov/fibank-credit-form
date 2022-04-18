@@ -10,7 +10,7 @@
     "787.2c7459e3.chunk.js.map": "/fbank-credit-form//static/js/787.2c7459e3.chunk.js.map"
   },
   "entrypoints": [
-    "fbank-credit-form/static/css/main.ab823097.css",
-    "fbank-credit-form/static/js/main.7bc74677.js"
+    "static/css/main.ab823097.css",
+    "static/js/main.7bc74677.js"
   ]
 }
