@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab823097.css",
-    "main.js": "/static/js/main.7bc74677.js",
-    "static/js/787.2c7459e3.chunk.js": "/static/js/787.2c7459e3.chunk.js",
-    "static/media/fibank.png": "/static/media/fibank.3b6e1cf5dfe5925cbf9b.png",
-    "index.html": "/index.html",
-    "main.ab823097.css.map": "/static/css/main.ab823097.css.map",
-    "main.7bc74677.js.map": "/static/js/main.7bc74677.js.map",
-    "787.2c7459e3.chunk.js.map": "/static/js/787.2c7459e3.chunk.js.map"
+    "main.css": "/fibank-credit-form/static/css/main.ab823097.css",
+    "main.js": "/fibank-credit-form/static/js/main.170f5eff.js",
+    "static/js/787.2c7459e3.chunk.js": "/fibank-credit-form/static/js/787.2c7459e3.chunk.js",
+    "static/media/fibank.png": "/fibank-credit-form/static/media/fibank.3b6e1cf5dfe5925cbf9b.png",
+    "index.html": "/fibank-credit-form/index.html",
+    "main.ab823097.css.map": "/fibank-credit-form/static/css/main.ab823097.css.map",
+    "main.170f5eff.js.map": "/fibank-credit-form/static/js/main.170f5eff.js.map",
+    "787.2c7459e3.chunk.js.map": "/fibank-credit-form/static/js/787.2c7459e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab823097.css",
-    "static/js/main.7bc74677.js"
+    "static/js/main.170f5eff.js"
   ]
 }
